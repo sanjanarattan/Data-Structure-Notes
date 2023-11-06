@@ -1,4 +1,4 @@
-public class Main {
+public class L {
 
     public interface List<T> {
         int size();
